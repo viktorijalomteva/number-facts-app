@@ -1,0 +1,2 @@
+# Number Facts App
+Code is written by following the "Vanilla JS Number Facts App - Ajax & Fetch" youtube video tutorial created by Brad Traversy (Traversy Media).  Number Facts App uses numbersapi.com with Vanilla JS, Fetch and Bootstrap 4.
